@@ -29,8 +29,8 @@ Este é um projeto simples criado com Django para fins de estudo e prática. O s
 
 ## 📷 Demonstração
 
-Veja o projeto funcionando no vídeo que publiquei no [LinkedIn](#).  
-*(substitua esse link pelo vídeo depois que postar)*
+Veja o projeto funcionando no vídeo que publiquei no [LinkedIn](https://www.linkedin.com/posts/nicolas-lim%C3%A3o-190690189_django-python-desenvolvimentoweb-activity-7320203792614866944-WJby?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAACxqsfwBscxO4o7F7vLTGnLNVb_oMD4WBFA).  
+
 
 ---
 
